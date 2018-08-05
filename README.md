@@ -1,5 +1,5 @@
 # testing
-Repo for testing misc stuff...
+Página de pruebas...
 
 * [Hola](hola.html)
 * [Simple VR](simplevr.html)
